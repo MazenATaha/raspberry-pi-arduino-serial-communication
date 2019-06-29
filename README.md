@@ -1,5 +1,6 @@
 # raspberry-pi-arduino-serial-communication
-A simple code to control arduino attached system by raspberry pi using serial command by matlab
+A simple code to control arduino system using raspberry pi by serial command through matlab.
+Connection is simple just connect the cable of Ardunio to any USB port in the raspberry pi
 
 
 
